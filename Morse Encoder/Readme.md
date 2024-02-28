@@ -14,5 +14,7 @@ Simple head over to the directory where python file is saved and run the followi
 ```python3 main.py```
 
 ## 📺 Demo
-![Screenshoted on 2023-5-23](https://github.com/JohnN310/python-mini-project/blob/main/Encode_Morse.py/morse_encoder.png)
+![Screenshoted on 2024-2-28](https://github.com/VSVHC/Python-Projects/blob/main/Morse%20Encoder/output-1.png)
+
+![Screenshoted on 2024-2-28](https://github.com/VSVHC/Python-Projects/blob/main/Morse%20Encoder/output-2.png)
 
