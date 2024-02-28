@@ -58,5 +58,5 @@ python expense_tracker.py
 
 ## 📺 Demo
 <p align="center">
-<img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/expense_tracker.png" width=70% height=70%>
+<img src="https://github.com/VSVHC/Python-Projects/blob/main/Expense%20Tracker/Output.png" width=70% height=70%>
 
