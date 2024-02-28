@@ -1,6 +1,3 @@
-<!--Please do not remove this part-->
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 # Morse Encoder
 
 <img src = "https://github.com/JohnN310/python-mini-project/blob/b03e7b77ed1f39475a1be8705d79b0411ae0305f/Encode_Morse.py/Morse-Code-Letters-and-Numbers.jpg" width="40%" height="40%">
@@ -19,5 +16,3 @@ Simple head over to the directory where python file is saved and run the followi
 ## 📺 Demo
 ![Screenshoted on 2023-5-23](https://github.com/JohnN310/python-mini-project/blob/main/Encode_Morse.py/morse_encoder.png)
 
-## 🤖 Author
-<a href="https://github.com/JohnN310">John Nguyen
